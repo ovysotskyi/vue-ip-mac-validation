@@ -1,9 +1,6 @@
 # Validation of inputed IP and MAC + input mask
 
-Demo:
-```
-[CodeSandbox demo](https://codesandbox.io/s/github/ovysotskyi/vue-ip-mac-validation)
-```
+Demo: [CodeSandbox demo](https://codesandbox.io/s/github/ovysotskyi/vue-ip-mac-validation)
 
 ## Project setup
 
